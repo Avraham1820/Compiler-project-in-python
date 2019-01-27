@@ -23,11 +23,11 @@ def mainf_(fileName):
         print 'The file : %s is not exsist' % fileName
 
 
-f1='C:\XXX_Python\Jack_Parser_4.9\Jack_code\Main.jack'
-f2='C:\XXX_Python\Jack_Parser_4.9\Jack_code\SquareGame.jack'
-f3='C:\XXX_Python\Jack_Parser_4.9\Jack_code\Square.jack'
-f4='C:\XXX_Python\Jack_Parser_4.9\Jack_code\Dictionary.jack'
-f5='C:\XXX_Python\Jack_Parser_4.9\Jack_code\MainArray.jack'
+f1='C:\XXX_Python\Jack_Parser\Jack_code\Main.jack'
+f2='C:\XXX_Python\Jack_Parser\Jack_code\SquareGame.jack'
+f3='C:\XXX_Python\Jack_Parser\Jack_code\Square.jack'
+f4='C:\XXX_Python\Jack_Parser\Jack_code\Dictionary.jack'
+f5='C:\XXX_Python\Jack_Parser\Jack_code\MainArray.jack'
 mainf_(f1)
 mainf_(f2)
 mainf_(f3)
