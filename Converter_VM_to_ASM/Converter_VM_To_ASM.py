@@ -95,14 +95,14 @@ def mainf_(folderPath):
 #mainf()
 
 
-mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\StackArithmetic\StackTest')
+mainf_('C:\XXX_Python\Converter_VM_to_ASM\StackArithmetic\StackTest')
 
-mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\FunctionCalls\StaticsTest')
-mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\FunctionCalls\FibonacciElement')
-mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\FunctionCalls\SimpleFunction')
+mainf_('C:\XXX_Python\Converter_VM_to_ASM\FunctionCalls\StaticsTest')
+mainf_('C:\XXX_Python\Converter_VM_to_ASM\FunctionCalls\FibonacciElement')
+mainf_('C:\XXX_Python\Converter_VM_to_ASM\FunctionCalls\SimpleFunction')
 
-mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\ProgramFlow\BasicLoop')
-mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\ProgramFlow\FibonacciSeries')
+mainf_('C:\XXX_Python\Converter_VM_to_ASM\ProgramFlow\BasicLoop')
+mainf_('C:\XXX_Python\Converter_VM_to_ASM\ProgramFlow\FibonacciSeries')
 
 
 #mainf_('C:\XXX_Python\Converter_VM_to_ASM_2.25\haratsa al ratuv')
